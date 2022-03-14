@@ -15,7 +15,7 @@ const Header = () =>{
             <FontAwesomeIcon className="icon-block" icon={faQuestionCircle} />
             <FontAwesomeIcon className="icon-block" icon={faExclamationCircle} />
             <FontAwesomeIcon className="icon-block" icon={faCog} />
-            <img src="https://lh3.googleusercontent.com/ogw/ADea4I7bAVV808XvL_aPJ8rcLeosgknSW46nOTI3NyUjXg=s32-c-mo"></img>
+            <img src="https://lh3.googleusercontent.com/ogw/ADea4I54gng_zDURpU-6Rgjg-qd1Cq8peLDMiU6zZBuq=s32-c-mo"></img>
             </div>
         </div>
     )
